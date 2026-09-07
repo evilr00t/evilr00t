@@ -1,12 +1,8 @@
 ```
 > whoami
-  karol czeryna — sre @ signal-ai · london
+  karol czeryna - sre · london
   breaking prod and fixing it faster since 2012
   :(){ :|:& };:
-```
-
-```
-> currently breaking: k8s autoscaling edge cases
 ```
 
 ---
@@ -17,6 +13,7 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
 ![Helm](https://img.shields.io/badge/helm-%230F1689.svg?style=flat-square&logo=helm&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/gcp-%234285F4.svg?style=flat-square&logo=gcp&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-%23F38020.svg?style=flat-square&logo=cloudflare&logoColor=white)
 
 **observability**
@@ -29,8 +26,7 @@
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/shell-%234EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 
 **tools**
 
